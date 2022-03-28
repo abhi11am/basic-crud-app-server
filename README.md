@@ -1,8 +1,6 @@
 ## Server Setup
 
-Create server folder
-
-Go to server folder and run the following command to create package.json file
+Run the following command to create package.json file
 
 ```bash
 npm init -y
