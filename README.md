@@ -2,9 +2,7 @@
 
 Run the following command to create package.json file
 
-```bash
-npm init -y
-```
+```bash npm init -y ```
 
 install nodemon to automatically restart app
 
