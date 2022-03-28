@@ -1,3 +1,11 @@
+## Frameworks / Plugins
+- [Express JS](https://expressjs.com/) (Node Framework, Routing, Middleware)
+- [Sequelize](https://sequelize.org/v6/) (ORM)
+- [cors](https://www.npmjs.com/package/cors)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+
+
+
 ## Server Setup
 
 Run the following command to create package.json file
